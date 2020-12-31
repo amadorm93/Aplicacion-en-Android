@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CompuServ</string>
+    <string name="bienvenida">Bienvenido a CompuServ</string>
+    <string name="menu">Menu principal</string>
+</resources>
